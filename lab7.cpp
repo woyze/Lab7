@@ -10,9 +10,7 @@ double harmonic(double a, double b) //
 }
 
 void swapnum(double *x, double *y, double *z)
-{
-        double min = 0, mid = 0, max = 0;
-       
+{    
 
         double temp = 0;
         double arr[3] = { *x, *y, *z };
